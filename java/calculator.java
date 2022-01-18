@@ -1,3 +1,5 @@
+package com.saikat;
+
 import java.util.Scanner;
 
 public class Calculator {
